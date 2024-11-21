@@ -15,9 +15,8 @@
 - **Correo:** [alanvargas@gmail.com](mailto:alanvargas@gmail.com)  
 - **Fiverr:** [alanv21](https://es.fiverr.com/alanv21?public_mode=true)
   
-⚡ **Tecnologías favoritas:**  
-- HTML5, CSS3, JavaScript JAVA PYTHON
-- Visual Studio Code y DBeaver  
+⚡ **Lenguajes con los que tengo experiencia:**  
+- HTML5, CSS3, JavaScript JAVA PYTHON  
 
 
 
