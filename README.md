@@ -3,7 +3,7 @@
 ### 🖥️ Diseñador web de ecommerce visuales ✨
 
 🌟 **Sobre mí**  
-- 🎓 Estudiante en [Universidad Santo Tomás](https://www.ust.edu.co/).
+- 🎓 Estudiante en [Universidad Santo Tomás].
 - 💼 Freelancer en [Fiverr](https://es.fiverr.com/alanv21?public_mode=true).
 - 🎨 Creando diseños minimalistas y modernos.
 
